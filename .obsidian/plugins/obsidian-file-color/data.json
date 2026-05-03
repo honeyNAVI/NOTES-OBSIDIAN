@@ -1,0 +1,66 @@
+{
+  "cascadeColors": false,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "1qHuMVXaBJ_bmoEXp38t8",
+      "name": "Ataque",
+      "value": "#ff0000"
+    },
+    {
+      "id": "_94mZnvScd2AsnNoT5AP3",
+      "name": "Teoria",
+      "value": "#0400ff"
+    },
+    {
+      "id": "YcL4uhOSWb-7FWopySgsD",
+      "name": "Pratica",
+      "value": "#4dff00"
+    },
+    {
+      "id": "ulzAXDCQi-ZwqBzqj8tzc",
+      "name": "Tema Principal",
+      "value": "#ff00f7"
+    },
+    {
+      "id": "emkK26Q8CL5VRt7gYB-UQ",
+      "name": "Teoria/Pratica",
+      "value": "#d4ff00"
+    },
+    {
+      "id": "aRBQZtgHlcILhQ8HoLE99",
+      "name": "CURSOS",
+      "value": "#ffa200"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "REDES/Redes de Computadores em Segurança da Informação/DHCP.md",
+      "color": "_94mZnvScd2AsnNoT5AP3"
+    },
+    {
+      "path": "REDES/Redes de Computadores em Segurança da Informação/Sub-Redes E Mascaras.md",
+      "color": "_94mZnvScd2AsnNoT5AP3"
+    },
+    {
+      "path": "REDES/Redes de Computadores em Segurança da Informação",
+      "color": "aRBQZtgHlcILhQ8HoLE99"
+    },
+    {
+      "path": "REDES/FortiGate Firewall - Segurança de Redes do Zero ao Avançado",
+      "color": "aRBQZtgHlcILhQ8HoLE99"
+    },
+    {
+      "path": "SEC/Python Hacking - Malware",
+      "color": "aRBQZtgHlcILhQ8HoLE99"
+    },
+    {
+      "path": "SEC/Ethical Hacking e Pentest",
+      "color": "aRBQZtgHlcILhQ8HoLE99"
+    },
+    {
+      "path": "DEV/FRONT-END",
+      "color": "aRBQZtgHlcILhQ8HoLE99"
+    }
+  ]
+}
