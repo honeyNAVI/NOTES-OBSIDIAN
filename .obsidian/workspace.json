@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Windows PowerShell/PowerShell Basics.md",
+                "file": "THM/Windows PowerShell/PowerShell Basics..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PowerShell Basics"
+              "title": "PowerShell Basics."
             }
           }
         ]
@@ -198,8 +198,12 @@
   },
   "active": "16bcf4a8e9ccd628",
   "lastOpenFiles": [
-    "REDES/Redes de Computadores em Segurança da Informação/Sub-Redes E Mascaras.md",
+    "Pasted image 20260503133159.png",
+    "THM/Windows PowerShell/PowerShell Basics..md",
     "THM/Windows PowerShell/PowerShell Basics.md",
+    "REDES/Redes de Computadores em Segurança da Informação/Modelo OSI.md",
+    "REDES/Redes de Computadores em Segurança da Informação/DHCP.md",
+    "REDES/Redes de Computadores em Segurança da Informação/Sub-Redes E Mascaras.md",
     "THM/Windows PowerShell",
     "Drawing 2026-05-02 16.53.17.excalidraw.md",
     "FIAP",
@@ -210,7 +214,6 @@
     "SEC",
     "REDES/FortiGate Firewall - Segurança de Redes do Zero ao Avançado",
     "Bem-vindo.md",
-    "REDES/Redes de Computadores em Segurança da Informação/DHCP.md",
     "REDES/Redes de Computadores em Segurança da Informação.md",
     "REDES/Redes de Computadores em Segurança da Informação",
     "acessando internet no arch"
