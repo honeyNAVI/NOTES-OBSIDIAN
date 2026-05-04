@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REDES/Redes de Computadores em Segurança da Informação/Modelo OSI.md",
+                "file": "THM/Windows PowerShell/PowerShell Basics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Modelo OSI"
+              "title": "PowerShell Basics"
             }
           }
         ]
@@ -180,7 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 319.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,8 +198,8 @@
   },
   "active": "16bcf4a8e9ccd628",
   "lastOpenFiles": [
-    "REDES/Redes de Computadores em Segurança da Informação/modelo osi.png",
     "REDES/Redes de Computadores em Segurança da Informação/Modelo OSI.md",
+    "REDES/Redes de Computadores em Segurança da Informação/modelo osi.png",
     "THM/Windows PowerShell/PowerShell Basics.md",
     "README.md",
     "REDES/Redes de Computadores em Segurança da Informação/DHCP.md",
