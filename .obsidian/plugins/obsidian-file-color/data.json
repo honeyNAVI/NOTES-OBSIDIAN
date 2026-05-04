@@ -31,6 +31,11 @@
       "id": "aRBQZtgHlcILhQ8HoLE99",
       "name": "CURSOS",
       "value": "#ffa200"
+    },
+    {
+      "id": "kh6o7MDMvRWrwrGLe8P7k",
+      "name": "Imagens",
+      "value": "#ffffff"
     }
   ],
   "fileColors": [
@@ -73,6 +78,10 @@
     {
       "path": "THM/Windows PowerShell/PowerShell Basics.md",
       "color": "_94mZnvScd2AsnNoT5AP3"
+    },
+    {
+      "path": "REDES/Redes de Computadores em Segurança da Informação/modelo osi.png",
+      "color": "kh6o7MDMvRWrwrGLe8P7k"
     }
   ]
 }
