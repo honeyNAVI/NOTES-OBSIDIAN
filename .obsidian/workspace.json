@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Windows PowerShell/PowerShell Basics.md.md",
+                "file": "THM/Windows PowerShell/PowerShell Basics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PowerShell Basics.md"
+              "title": "PowerShell Basics"
             }
           }
         ]
@@ -198,8 +198,9 @@
   },
   "active": "b395c8e7ce66119e",
   "lastOpenFiles": [
+    "README.md",
     "Pasted image 20260503133159.png",
-    "THM/Windows PowerShell/PowerShell Basics.md.md",
+    "THM/Windows PowerShell/PowerShell Basics.md",
     "THM/Windows PowerShell/PowerShell Basics.md",
     "REDES/Redes de Computadores em Segurança da Informação/Modelo OSI.md",
     "REDES/Redes de Computadores em Segurança da Informação/DHCP.md",
