@@ -13,10 +13,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "modelo osi.png"
+                "file": "mandamentosCEI.png"
               },
               "icon": "lucide-image",
-              "title": "modelo osi"
+              "title": "mandamentosCEI"
             }
           }
         ]
@@ -178,8 +178,10 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "dc097fc66237beb0",
+  "active": "6255b7853000faa1",
   "lastOpenFiles": [
+    "modelo osi.png",
+    "mandamentosCEI.png",
     "TCP-IPvsOSI.png",
     "tabela_camada.png",
     "tabela_camada+protocolos.png"

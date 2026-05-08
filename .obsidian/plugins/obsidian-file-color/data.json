@@ -10,7 +10,7 @@
     {
       "id": "_94mZnvScd2AsnNoT5AP3",
       "name": "Teoria",
-      "value": "#0400ff"
+      "value": "#00eeff"
     },
     {
       "id": "YcL4uhOSWb-7FWopySgsD",
@@ -80,16 +80,28 @@
       "color": "_94mZnvScd2AsnNoT5AP3"
     },
     {
-      "path": "THM/Windows PowerShell/images/modelo osi.png",
+      "path": "images/modelo osi.png",
       "color": "kh6o7MDMvRWrwrGLe8P7k"
     },
     {
-      "path": "THM/Windows PowerShell/images",
+      "path": "images",
       "color": "kh6o7MDMvRWrwrGLe8P7k"
     },
     {
       "path": "THM/Linux Shells",
       "color": "emkK26Q8CL5VRt7gYB-UQ"
+    },
+    {
+      "path": "REDES/Redes de Computadores em Segurança da Informação/Cabo de Rede.md",
+      "color": "_94mZnvScd2AsnNoT5AP3"
+    },
+    {
+      "path": "CISCO",
+      "color": "aRBQZtgHlcILhQ8HoLE99"
+    },
+    {
+      "path": "CISCO/Gerenciamento de Ameaças Cibernéticas.md",
+      "color": "_94mZnvScd2AsnNoT5AP3"
     }
   ]
 }
