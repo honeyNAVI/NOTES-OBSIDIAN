@@ -1,4 +1,6 @@
 
+### PowerShell Basics
+
 - Comandos no PowerShell são conhecidos como cmdlets e seguem uma convenção de Verb-Noun. 
 - O "Verb" descreve a ação e o "Noun" especifica o objeto no qual ação irá agir
 
@@ -68,6 +70,7 @@ Select-String -Path ".\navi-dreams.txt" -Pattern "dreams"
 | Get-FileHash         | Gera Arquivos Hash (Particularmente bom em Resposta a Incidentes, Analise de Malware, Verificar integridade do arquivo)        |
 
 #### Scripting
+
 
 
 

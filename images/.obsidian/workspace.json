@@ -1,24 +1,22 @@
 {
   "main": {
-    "id": "09e832009456d2de",
+    "id": "01266d75be403c3e",
     "type": "split",
     "children": [
       {
-        "id": "5f1e76b01dfd3346",
+        "id": "dea80f2b9ba33a5f",
         "type": "tabs",
         "children": [
           {
-            "id": "16bcf4a8e9ccd628",
+            "id": "6255b7853000faa1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "REDES/Redes de Computadores em Segurança da Informação/Modelo OSI e TCP-IP.md",
-                "mode": "source",
-                "source": false
+                "file": "modelo osi.png"
               },
-              "icon": "lucide-file",
-              "title": "Modelo OSI e TCP-IP"
+              "icon": "lucide-image",
+              "title": "modelo osi"
             }
           }
         ]
@@ -27,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "a07f4deb76c4ad76",
+    "id": "0f47f632e31098bd",
     "type": "split",
     "children": [
       {
-        "id": "dc9f0e5450edc763",
+        "id": "1784a2573d16f340",
         "type": "tabs",
         "children": [
           {
-            "id": "b395c8e7ce66119e",
+            "id": "dc097fc66237beb0",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +46,7 @@
             }
           },
           {
-            "id": "7132ae65729c95f5",
+            "id": "e2e918350a11f8c1",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +63,7 @@
             }
           },
           {
-            "id": "4b14ef72baca328e",
+            "id": "ccbd5b20d781716e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,23 +76,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "695838f46ad8d7cf",
+    "id": "ffbe688841b2a048",
     "type": "split",
     "children": [
       {
-        "id": "9584d809a4dd0e75",
+        "id": "dcadfe64c4d68353",
         "type": "tabs",
         "children": [
           {
-            "id": "72b552771b6ccbf0",
+            "id": "9650064bd12b4942",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REDES/Redes de Computadores em Segurança da Informação/Sub-Redes E Mascaras.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +101,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Sub-Redes E Mascaras"
+              "title": "Links inversos"
             }
           },
           {
-            "id": "bef4d96c167224e7",
+            "id": "e01f867677c26ebc",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REDES/Redes de Computadores em Segurança da Informação/Sub-Redes E Mascaras.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Sub-Redes E Mascaras"
+              "title": "Links de saída"
             }
           },
           {
-            "id": "2ab96445afe83edf",
+            "id": "9d89e98a056a60ec",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,7 +133,7 @@
             }
           },
           {
-            "id": "2b279bd4637c8b2e",
+            "id": "0bd02fcb93feb5d6",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -151,36 +147,25 @@
             }
           },
           {
-            "id": "f56bab656d7faa75",
+            "id": "03d702f3720145ec",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "REDES/Redes de Computadores em Segurança da Informação/Sub-Redes E Mascaras.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Sub-Redes E Mascaras"
-            }
-          },
-          {
-            "id": "f64eee33af5d48c6",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Sumário"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,41 +175,13 @@
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-      "bases:Criar nova base": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-git:Open Git source control": false
+      "bases:Criar nova base": false
     }
   },
-  "active": "16bcf4a8e9ccd628",
+  "active": "dc097fc66237beb0",
   "lastOpenFiles": [
-    "REDES/Redes de Computadores em Segurança da Informação/DHCP.md",
-    "REDES/Redes de Computadores em Segurança da Informação/Cabo de Rede.md",
-    "THM/Linux Shells/Room.md",
-    "THM/Windows PowerShell/Room.md",
-    "THM/Linux Shells",
-    "REDES/Redes de Computadores em Segurança da Informação/Modelo OSI e TCP-IP.md",
-    "images/OSI_HACK.png",
-    "images/TCP-IPvsOSI.png",
-    "Pasted image 20260506132348.png",
-    "Pasted image 20260506131826.png",
-    "images/tabela_camada+protocolos.png",
-    "images/tabela_camada.png",
-    "images/modelo osi.png",
-    "Pasted image 20260506132323.png",
-    "REDES/Redes de Computadores em Segurança da Informação/Sub-Redes E Mascaras.md",
-    "images",
-    "README.md",
-    "THM/Windows PowerShell",
-    "Drawing 2026-05-02 16.53.17.excalidraw.md",
-    "FIAP",
-    "DEV/FRONT-END",
-    "DEV",
-    "SEC/Ethical Hacking e Pentest",
-    "SEC/Python Hacking - Malware",
-    "SEC",
-    "REDES/FortiGate Firewall - Segurança de Redes do Zero ao Avançado",
-    "Bem-vindo.md",
-    "REDES/Redes de Computadores em Segurança da Informação.md"
+    "TCP-IPvsOSI.png",
+    "tabela_camada.png",
+    "tabela_camada+protocolos.png"
   ]
 }

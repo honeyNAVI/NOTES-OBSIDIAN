@@ -1,4 +1,0 @@
-
-![[modelo osi.png]]
-
-- 

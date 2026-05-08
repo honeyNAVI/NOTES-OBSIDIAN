@@ -72,16 +72,24 @@
       "color": "emkK26Q8CL5VRt7gYB-UQ"
     },
     {
-      "path": "REDES/Redes de Computadores em Segurança da Informação/Modelo OSI.md",
+      "path": "REDES/Redes de Computadores em Segurança da Informação/Modelo OSI e TCP-IP.md",
       "color": "_94mZnvScd2AsnNoT5AP3"
     },
     {
-      "path": "THM/Windows PowerShell/PowerShell Basics.md",
+      "path": "THM/Windows PowerShell/Room.md",
       "color": "_94mZnvScd2AsnNoT5AP3"
     },
     {
-      "path": "REDES/Redes de Computadores em Segurança da Informação/modelo osi.png",
+      "path": "images/modelo osi.png",
       "color": "kh6o7MDMvRWrwrGLe8P7k"
+    },
+    {
+      "path": "images",
+      "color": "kh6o7MDMvRWrwrGLe8P7k"
+    },
+    {
+      "path": "THM/Linux Shells",
+      "color": "emkK26Q8CL5VRt7gYB-UQ"
     }
   ]
 }
