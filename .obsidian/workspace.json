@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CISCO/Gerenciamento de Ameaças Cibernéticas.md",
+                "file": "THM/Linux Shells/Room.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gerenciamento de Ameaças Cibernéticas"
+              "title": "Room"
             }
           }
         ]
@@ -198,14 +198,15 @@
   },
   "active": "16bcf4a8e9ccd628",
   "lastOpenFiles": [
-    "images/mandamentosCEI.png",
-    "REDES/Redes de Computadores em Segurança da Informação/Cabo de Rede.md",
-    "CISCO/Gerenciamento de Ameaças Cibernéticas.md",
-    "CISCO",
     "REDES/Redes de Computadores em Segurança da Informação/Modelo OSI e TCP-IP.md",
+    "REDES/Redes de Computadores em Segurança da Informação/Sub-Redes E Mascaras.md",
+    "REDES/Redes de Computadores em Segurança da Informação/DHCP.md",
     "THM/Linux Shells/Room.md",
     "THM/Windows PowerShell/Room.md",
-    "REDES/Redes de Computadores em Segurança da Informação/DHCP.md",
+    "CISCO/Gerenciamento de Ameaças Cibernéticas.md",
+    "images/mandamentosCEI.png",
+    "REDES/Redes de Computadores em Segurança da Informação/Cabo de Rede.md",
+    "CISCO",
     "THM/Linux Shells",
     "images/OSI_HACK.png",
     "images/TCP-IPvsOSI.png",
@@ -215,7 +216,6 @@
     "images/tabela_camada.png",
     "images/modelo osi.png",
     "Pasted image 20260506132323.png",
-    "REDES/Redes de Computadores em Segurança da Informação/Sub-Redes E Mascaras.md",
     "images",
     "README.md",
     "THM/Windows PowerShell",
